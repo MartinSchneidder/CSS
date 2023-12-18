@@ -1,2 +1,2 @@
 # Links to Pages
-[Shopping Layout](https://github.com/MartinSchneidder/CSS/tree/main/shopping-layout)
+[Shopping Layout](https://martinschneidder.github.io/CSS/shopping-layout)
